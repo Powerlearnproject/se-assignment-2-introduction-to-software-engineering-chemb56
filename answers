@@ -1,0 +1,66 @@
+1.The process analysing, designing, building and testing of software applications.
+2. The process of designing,analysing and creation of software emphasizing on the methodical approach to software design while programming refers to the writing of code to solve a apecific problem.
+3.PHASES OF SDLC 
+a) Requirements gathering and analysis -documentation of project requirements in order to understandwhat the software should do and who will use it and what problems will be solved
+b) System Design-system is designed according to requirements gathered.
+c)Implementation/coding-programmers follow coding standards and rules to create the software that meets user requirements.
+d)Testing-software is tested to ensure it meets user requirements
+e)Deployment-software is installed on servers,configured and made available to users.
+f)Maintenance-monitoring and update of software by fixing bugs,adding new features and addressing issues that arise during its use.
+4.Waterfall follows a linear and sequential approach where each phase must be completed moving to the next while Agile is an itirative and incremental approach.
+DIFFERENCES BETWEEN  WATERFALL AND AGILE APPROACH
+Waterfall approach is less flexible changes while agile aproach is adaptable to change
+Waterfall approach takes longer to execute while agile approach takes shorter time to execute.
+5.Requirement engineering is the process of defining,documenting and maintaining requirements in the system or software engineering process.
+PROCESS OF REQUIREMENT ENGINEERING
+a)Feasibility study
+b)Requirement elecitation
+c)Requirement specification
+d)Requirements for verification and validation
+e)Requirement management
+IMPORTANCE OF REQUIREMENT ENGINEERING
+There are reduced errors by defining requirement upfront hence costly errors are minimised.
+There are reduced maintenance costs.
+6.Principle of dividing a software application into modules which are the building blocks.
+Improve maintanability-changes and bug fixes are isolated within a specific module instead of the entire system.
+Scalability-easily scaled up or down by adding or removing modules.
+7.Testing helps identify bugs and ensure they are fixed to make a software meet user requirements.
+a)Unit testing-Testing individual components or units of code in isolation.
+b)Intergration testing-testing interactions between different components to ensure that they communicate and functioncorrectly as a whole.
+c)System testing-testing the intergrated system against specified requirement as a whole.
+d)Acceptance-conducted by users to ensure the system meets their needs.
+WHY TESTING IS CRUCIAL
+a)To help identify defects and bugs in the software to allow them to be fixed.
+b)Ensure software meets specified requirements and function correctly.
+8.Tools used in software development to manage changes to source code,documents and files
+IMPORTANCE
+ -Change tracking of files by keeping history
+ -Enables multiple developers to collaborate on the same project
+ -Serve as a backup for code and project files
+ Examples
+ GIT- extensive ecosystem of tools and intergrations eg. github,gitlab
+ Subvarsion-support for binary files eg. apache subversion
+ 9.Ensuring the successful planning,execution and delivery of software projects
+ RESPONSIBILITIES
+ Project planning and scheduling
+ management of groups
+ Risk management
+ CHALLENGES
+ Mitigating risks in an uncertain environment
+ Resolving conflicts in a diverse team of people
+ 10.Involves making changes to software to ensure that it continues to meet the users requirements
+ MAINTENANCE ACTIVITIES
+ Preventive-identifying potential risks in software to prevent future issues
+ corrective-addressing bugs ,errors in the deployed software
+ Adaptive-changes in the environment
+ Perfective-enhancing software in real time
+ WHY IS MAINTENANCE ESSENTIAL
+ Ensure the reliability of the software
+ User satisfaction by meeting their requirements.
+ 11.Security vulnerabilities in software which may lead to cyberthreats ,data breaches
+ a)Environmental impact on climate change due to energy consumption,carbon emission and waste products'
+ b)privacy when handling sensitive user data
+  
+  a)Abiding by codes of conduct and ethical guidelines
+  b)Educating on ethical issues such as security,privacy
+  c)Accountability in their decision making and be ready to take responsibilities of their actions.
